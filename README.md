@@ -1,6 +1,6 @@
-#Student DBMS
+# Student DBMS
 
-Hloo, Hope you all are well and safe in good health😃😃
+### Hloo, Hope you all are well and safe in good health😃😃
 
 This project is all about Student Database Management System (Used File Handling)
 
@@ -22,4 +22,4 @@ So, there you go I have given you a short info of this program☺️
 Feel free to give it a try. I am sure that you will enjoy this.
 
 
-Take care, Bye👋👋
+### Take care, Bye👋👋
