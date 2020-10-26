@@ -19,7 +19,7 @@ In this program you can create
 5. Delete the unwanted records.
 
 So, there you go I have given you a short info of this program☺️ 
-Feel free to give it a try. I am sure that you will enjoy this.
+Give it a try. I am sure that you will enjoy this.
 
 
 ### Take care, Bye👋👋
